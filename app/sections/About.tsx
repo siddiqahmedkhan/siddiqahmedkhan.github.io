@@ -22,11 +22,11 @@ function About() {
       <div className="about-grid">
         <div className="about-grid-info">
           <p className="about-grid-info-text">
-            I am a CS graduate of 2021 batch. I started my coding journey in
-            2020, the pandamic time. Those days, the concept of online classes
-            sky rocketed and self-learning became the only option for me to
-            learn what I like the most, Coding. I started enrolling in various
-            programming courses online.
+          I'm a 2021 computer science graduate who discovered my passion for coding during the pandemic.
+          With online learning on the rise, I took the opportunity to self-learn and enrolled in various programming courses.
+          Through self-directed study, I've developed my skills and earned my knowledge. After completing my education, 
+          I've gained valuable experience in the IT sector. Now, 
+          I'm focused on building a career as a Web3 developer and working towards making my dream a reality.
           </p>
 
           <p className="about-grid-info-text">
@@ -35,9 +35,9 @@ function About() {
           </p>
 
           <p className="about-grid-info-text">
-            I completed my education in 2021 and have gained valuable experience
-            in IT Sector. Now I aim to establish myself as a Web3 developer. And
-            I am on my way to make my dream come true!
+            I completed my under-graduate education in 2021 and have gained valuable experience
+            in IT Sector for almost 2 years. Now I aim to complete my graduate studies and establish myself as a full Stack developer.
+            and I am on my way to make my dream come true!
           </p>
           <ul className="about-grid-info-list">
             <li className="about-grid-info-list-item">C</li>
@@ -55,7 +55,7 @@ function About() {
           <div className="overlay"></div>
           <div className="overlay-border"></div>
           <div className="about-grid-photo-container">
-            <Image src="/photo2.jpeg" alt="photo" fill />
+            <Image src="/pic zee.jpeg" alt="photo" fill />
           </div>
         </div>
       </div>

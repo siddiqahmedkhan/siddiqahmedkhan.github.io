@@ -31,7 +31,7 @@ function Page() {
   return (
     <div className="app">
       <Head>
-        <title>Shaik Abdul Khadar</title>
+        <title>SIDDIQ AHMED KHAN</title>
         <link rel="shortcut icon" href="/favicon.ico" />
       </Head>
       {showContent && (

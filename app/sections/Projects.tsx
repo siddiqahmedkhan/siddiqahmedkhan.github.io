@@ -7,75 +7,34 @@ import { motion } from "framer-motion";
 
 function Projects() {
   const projectsData = [
-    {
-      image: "/jarvis.png",
-      projectName: "J.A.R.V.I.S",
-      projectLink: "https://github.com/shaikabdulkhadar1/JARVIS",
-      projectDescription:
-        "It is an AI virtual assistant developed using Python. It takes your voice commands as input, analyse them and respond accordingly. If your command includes a google search, it will search your query on the google and displays result in a mini-window within the app.",
-      projectTech: ["Python", "Speech Recognition"],
-      projectExternalLinks: {
-        github: "https://github.com/shaikabdulkhadar1/JARVIS",
-        externalLink: "",
-      },
-    },
+    
     {
       image: "/mlcloud.png",
-      projectName: "Smart Cloud Services",
-      projectLink: "https://github.com/shaikabdulkhadar1/cloudServiceProvider",
+      projectName: "Contact Management System",
+      projectLink: "https://github.com/SIDDIQAHMEDKHAN/cms-system",
       projectDescription:
-        "It is a Machine Learnign based cloud service provider. This model analyzes the user requirements on the basis of their usage and eliminates unnecessary services from the cloud reducing the overall price. This ML model used KNN Algorith to analyse and filter-out the services that are useless for the particular user.",
+        "Programmed a full-stack contact management system (CMS) using MERN stack (MongoDB, Express.js, ReactJs, and NodeJs).Implemented core CRUD functionalities for effective contact management and integrated robust authorization  system utilizing authentication Tokens to Safeguard user Data.",
       projectTech: ["Python", "Machine Learning"],
       projectExternalLinks: {
-        github: "https://github.com/shaikabdulkhadar1/cloudServiceProvider",
+        github: "https://github.com/SIDDIQAHMEDKHAN/cms-system",
         externalLink: "",
       },
     },
     {
       image: "/storageprovider2.png",
       projectName: "File Storage System",
-      projectLink: "https://github.com/shaikabdulkhadar1/File-Storage",
+      projectLink: "https://github.com/SIDDIQAHMEDKHAN/python-FSS",
       projectDescription:
         "This is one of the most secured file storage system with Hybride Cryptography built solely using Python. This uses 3 unique encryption techniques, namely Blowfish, DES and RSA, which uses 3 unique private keys for encryption. ",
       projectTech: ["Python", "Blowfish Algo", "DES Algo", "RSA Algo"],
       projectExternalLinks: {
-        github: "https://github.com/shaikabdulkhadar1/File-Storage",
+        github: "https://github.com/SIDDIQAHMEDKHAN/python-FSS",
         externalLink: "",
       },
     },
-    {
-      image: "/dfdetect.png",
-      projectName: "DeepFake Detector",
-      projectLink:
-        "https://github.com/shaikabdulkhadar1/Deepfake-Detection-with-Python",
-      projectDescription:
-        "This project is used to detect tampered or virtually generated videos and images. This was developed during a Hackathon named HacktoberFest 2022 organised by CodeForIndia Foundation. It uses Python, Keras and TensorFlow to do its magic. ",
-      projectTech: ["Python", "Keras", "TensorFlow"],
-      projectExternalLinks: {
-        github:
-          "https://github.com/shaikabdulkhadar1/Deepfake-Detection-with-Python",
-        externalLink: "",
-      },
-    },
-    {
-      image: "/project3.png",
-      projectName: "Netflix App",
-      projectLink: "https://github.com/shaikabdulkhadar1/Netflix-Clone",
-      projectDescription:
-        "I made a Netflix copy with TMBD Api. It has infinite scrolling and lets you watch movies by genre. You can also add movies to your favorites list.",
-      projectTech: [
-        "React",
-        "Node.js",
-        "Firebase",
-        "MongoDB",
-        "Express",
-        "Redux Toolkit",
-      ],
-      projectExternalLinks: {
-        github: "https://github.com/shaikabdulkhadar1/Netflix-Clone",
-        externalLink: "",
-      },
-    },
+    
+   
+
   ];
   return (
     <div className="projects" id="projects">

@@ -8,23 +8,19 @@ function SocialIcons() {
     {
       name: "Github",
       icon: <FiGithub />,
-      link: "https://github.com/shaikabdulkhadar1",
+      link: "https://github.com/SIDDIQAHMEDKHAN",
     },
     {
       name: "Others",
       icon: <FiLink />,
-      link: "https://linktr.ee/shaikabdulkhadar",
+      link: "https://linktr.ee/ItzSid",
     },
     {
       name: "LinkedIn",
       icon: <FiLinkedin />,
-      link: "https://www.linkedin.com/in/shaik-abdul-khadar-8001b81a4/",
+      link: "https://www.linkedin.com/in/siddiq-ahmed-khan-8ab8b1208/",
     },
-    {
-      name: "Twitter",
-      icon: <FiTwitter />,
-      link: "https://twitter.com/S_A_Khadar",
-    },
+   
   ];
 
   return (

@@ -1,8 +1,9 @@
 import React from "react";
+import Button from "./Button";
 
 function Logo() {
   return (
-    <svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+    <svg id="logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" >
       <title>Logo</title>
       <g>
         <g id="K" transform="translate(35.000000, 35.000000)">

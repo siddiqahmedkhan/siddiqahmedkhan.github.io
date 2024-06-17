@@ -19,7 +19,7 @@ function Hero() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.3, ease: "easeInOut", delay: 0.75 }}
       >
-        Shaik Abdul Khadar
+        Siddiq Ahmed Khan
       </motion.h2>
       <motion.h3
         className="hero-title-large hero-title-sub"
@@ -27,7 +27,7 @@ function Hero() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.3, ease: "easeInOut", delay: 1.05 }}
       >
-        I craft things for web.
+        I craft Innovative web page Designs.
       </motion.h3>
       <motion.p
         className="hero-text"
@@ -36,8 +36,7 @@ function Hero() {
         transition={{ duration: 0.3, ease: "easeInOut", delay: 1.35 }}
       >
         {" "}
-        I believe that the best transition in life is the transition from a
-        non-working state to a working state.
+        Building user-friendly web solutions that prioritize usability, accessibility, and customer satisfaction.  
       </motion.p>
       <motion.div
         className="hero-button"
@@ -45,7 +44,7 @@ function Hero() {
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.3, ease: "easeInOut", delay: 1.65 }}
       >
-        <Button text="LinkTree" link="https://linktr.ee/shaikabdulkhadar" />
+        <Button text="LinkTree" link="https://linktr.ee/ItzSid" />
       </motion.div>
     </div>
   );

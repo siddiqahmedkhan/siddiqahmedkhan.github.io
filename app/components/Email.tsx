@@ -15,9 +15,9 @@ function Email() {
       }}
     >
       <Link
-        href="mailto:shaikabdulkhadar1.shaik@gmail.com"
+        href="mailto:siddiqahmedkhann@gmail.com"
         className="email-link"
-      >
+      > 
         Mail Me
       </Link>
     </motion.div>

@@ -23,7 +23,7 @@ function Contact() {
         hi, I&apos;ll try my best to get back to you!
       </p>
       <div className="contact-cta">
-        <Button text="Say Hi" link="mailto:shaikabdulkhadar1.shaik@gmail.com" />
+        <Button text="Say Hi" link="mailto:siddiqahmedkhann@gmail.com" />
       </div>
       <div className="inspired-by">
         <h2>Portfolio inspired by Brittany Chiang</h2>
