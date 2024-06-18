@@ -41,7 +41,7 @@ function Loader({ isLoading, setIsLoading }: any) {
                   fontSize="35px"
                   fontFamily="Consolas"
                 >
-                  SAK
+                SAK
                 </motion.text>
               </g>
               <motion.path
