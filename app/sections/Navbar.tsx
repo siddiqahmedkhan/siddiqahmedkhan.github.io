@@ -115,7 +115,7 @@ function Navbar() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.3, ease: "easeInOut", delay: 0.6 }}
           >
-            <Button text="Resume" link="http://localhost:3000/Resume MS.pdf" />
+            <Button text="Resume" link="http://localhost:3000/ResumeMS.pdf" />
           </motion.div>
         </div>
       </div>
