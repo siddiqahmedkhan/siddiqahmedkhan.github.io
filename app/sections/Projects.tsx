@@ -8,9 +8,9 @@ import { motion } from "framer-motion";
 function Projects() {
   const projectsData = [
 
-
+    {
      {
-      image: "./pic4.png",
+      image: "/pic4.png",
       projectName: "Health check-up marketing campaign for Hospital.",
       projectLink: "https://www.canva.com/design/DAGVjPVtPJ0/EOLmaMSOsEDNMnl8GYMcLg/view",
       projectDescription:
@@ -46,7 +46,7 @@ function Projects() {
       },
     },
     
-   
+    };
 
   ];
   return (
