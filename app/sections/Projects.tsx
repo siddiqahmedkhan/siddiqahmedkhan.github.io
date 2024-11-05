@@ -20,7 +20,7 @@ function Projects() {
         github: "https://campaignbysid.my.canva.site/",
         externalLink: "",
       },
-     }.
+     },
        {
       image: "/mlcloud.png",
       projectName: "Contact Management System",
@@ -44,7 +44,7 @@ function Projects() {
         github: "https://github.com/SIDDIQAHMEDKHAN/python-FSS",
         externalLink: "",
       },
-    
+    },
     
    
 
