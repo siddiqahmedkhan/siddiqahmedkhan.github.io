@@ -76,6 +76,7 @@ function Projects() {
             return (
               <motion.div
                 className="project"
+                onClick = {projectExternalLinks.github}
                 key={projectName}
                 initial="hidden"
                 whileInView="visible"
