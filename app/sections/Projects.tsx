@@ -7,7 +7,7 @@ import { motion } from "framer-motion";
 
 function Projects() {
   const projectsData = [
-    {
+    
     {
      
       image: "/pic4.png",
@@ -46,7 +46,6 @@ function Projects() {
       },
     },
     
-    },
 
   ];
   return (
