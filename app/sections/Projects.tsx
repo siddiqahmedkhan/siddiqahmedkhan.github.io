@@ -11,7 +11,7 @@ function Projects() {
     {
      
       image: "/pic4.png",
-      projectName: "Health Check-Up Marketing Campaign.",
+      projectName: "Health Check-Up Campaign.",
       projectLink: "https://www.canva.com/design/DAGVjPVtPJ0/EOLmaMSOsEDNMnl8GYMcLg/view",
       projectDescription:
         "Developed Marketing Campaign for government hospital which was conducting free health check-up's. using canva,InDesign, Illustrator and Photoshop, HTML,CSS.",
