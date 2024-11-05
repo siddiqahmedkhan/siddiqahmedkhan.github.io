@@ -7,6 +7,19 @@ import { motion } from "framer-motion";
 
 function Projects() {
   const projectsData = [
+
+
+     {
+      image: "/pic 4.png",
+      projectName: "Health check-up marketing campaign for government hospital.",
+      projectLink: "https://www.canva.com/design/DAGVjPVtPJ0/EOLmaMSOsEDNMnl8GYMcLg/view",
+      projectDescription:
+        "Developed Marketing Campaign for government hospital which was conducting free health check-up's. using canva,InDesign, Illustrator and Photoshop, HTML,CSS.",
+      projectTech: ["Photoshop", "HTML/CSS", "Canva"],
+      projectExternalLinks: {
+        github: "https://campaignbysid.my.canva.site/",
+        externalLink: "",
+      },
     
     {
       image: "/mlcloud.png",
